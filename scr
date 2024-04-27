@@ -1,0 +1,11 @@
+Name: fw_bin
+Outgoing License: LA_OPT_NXP_Software License - Production Use - clause 2.3 applies
+License File: LICENSE.txt
+Version: 18.99.6.p7.1-18.25.6.p7.1
+Format: Binary
+Description: CPU1 and CPU2 firmware binaries
+Location: https://github.com/nxp-zephyr/hal_nxp
+Origin: NXP (proprietary)
+        ThreadX licensed from Express Logic (proprietary)
+        hostapd (BSD 3-Clause) - http://hostap.epitest.fi/hostapd/
+        easy-ecc (BSD 2-Clause) - https://github.com/esxgx/easy-ecc
